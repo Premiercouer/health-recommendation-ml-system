@@ -1,0 +1,25 @@
+# Google Cloud credentials — never commit service account keys
+*.json.key
+service_account*.json
+*credentials*.json
+application_default_credentials.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
