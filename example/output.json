@@ -1,0 +1,24 @@
+{
+  "id": "user_001",
+  "input": {
+    "id": "user_001",
+    "dif_nutrition": 10,
+    "c_val_nutrition": 520,
+    "dif_obesity": -100,
+    "c_val_obesity": 300,
+    "dif_sleep": 800,
+    "c_val_sleep": 750,
+    "dif_depression": -500,
+    "c_val_depression": 480,
+    "dif_wellness": 50,
+    "c_val_wellness": 550,
+    "dif_anti_stress": -200,
+    "c_val_anti_stress": 650,
+    "dif_anti_smoke": 100,
+    "c_val_anti_smoke": 700,
+    "dif_movement": -800,
+    "c_val_movement": 200
+  },
+  "status_assessment": "Be careful! You need to start improving with respect to your Depression, Movement and Obesity. In the long term, you may still be at the risk of Anti-Stress.",
+  "recommendations": "Restrict the intake of sugars-sweetened soft drinks. Increasing levels of physical activity: engaging in one hour of moderate physical activity per day (ex. walking). Share your feelings with a trusted friend in person or talk to a psychologist. Get a journal and write your thoughts out. You must engage in at least 30 minutes of moderate physical activity such as brisk walking or aerobic exercise every day. Play a sport you enjoy or go for a walk or run. Don't spend too much time in one place, take breaks often to walk around or stretch."
+}

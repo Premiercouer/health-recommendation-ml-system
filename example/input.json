@@ -1,0 +1,19 @@
+{
+  "id": "user_001",
+  "dif_nutrition": 10,
+  "c_val_nutrition": 520,
+  "dif_obesity": -100,
+  "c_val_obesity": 300,
+  "dif_sleep": 800,
+  "c_val_sleep": 750,
+  "dif_depression": -500,
+  "c_val_depression": 480,
+  "dif_wellness": 50,
+  "c_val_wellness": 550,
+  "dif_anti_stress": -200,
+  "c_val_anti_stress": 650,
+  "dif_anti_smoke": 100,
+  "c_val_anti_smoke": 700,
+  "dif_movement": -800,
+  "c_val_movement": 200
+}
